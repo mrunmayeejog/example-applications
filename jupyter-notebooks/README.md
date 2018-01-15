@@ -46,9 +46,9 @@ Click the link `Example Platform-library PySpark Notebook.ipynb`.
 
 The Spark kernel provides some predefined magics, which are special commands that you can call with %%.  Load 'sparkmagic' in order interact with Spark from jupyter notebook.
 
-   ![Sparkmagic load magics](images\jupyter-sparkmagic-magics.PNG)
+   ![Sparkmagic load magics](images/jupyter-sparkmagic-magics.PNG)
 
 The %manage_spark line magic will let you manage Livy endpoints and Spark sessions. You can provide Livy endpoints using DNS name/IP address of Livy server which is running on Jupyter node. You can create and delete sessions for an endpoint from it.
 
-   ![Sparkmagic manage sessions](images\jupyter-sparkmagic-endpoint.PNG)
+   ![Sparkmagic manage sessions](images/jupyter-sparkmagic-endpoint.PNG)
 
