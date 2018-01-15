@@ -6,7 +6,7 @@
   * [Log into Jupyter Portal](#log-into-jupyter-portal)
   * [Upload example notebook](#upload-example-notebook)
   * [Open example notebook](#open-example-notebook)
-  * [Spark Magic Usage](#spark-kernel-example-notebook)
+  * [Spark Magic Usage](#spark-magic-usage)
 
 ## Overview
 
