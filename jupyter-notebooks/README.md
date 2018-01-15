@@ -6,7 +6,7 @@
   * [Log into Jupyter Portal](#log-into-jupyter-portal)
   * [Upload example notebook](#upload-example-notebook)
   * [Open example notebook](#open-example-notebook)
-  * [Spark Kernel example notebook] (#spark-kernel-example-notebook)
+  * [Spark Kernel example notebook](#spark-kernel-example-notebook)
 
 ## Overview
 
