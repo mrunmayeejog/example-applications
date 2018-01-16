@@ -48,7 +48,7 @@ The Spark kernel provides some predefined magics, which are special commands tha
 
    ![Sparkmagic load magics](images/jupyter-sparkmagic-magics.PNG)
 
-The %manage_spark line magic will let you manage Livy endpoints and Spark sessions. You can provide Livy endpoint using DNS name/IP address of Jupyter node on which Livy server is running. By default Livy server is configured on port 8998. Add new endpoint using eg : http://jupyter-node-ip:8998. You can create and delete sessions for an endpoint from it.
+The %manage_spark line magic will let you manage Livy endpoints and Spark sessions. You can provide Livy endpoint using DNS name/IP address of Jupyter node on which Livy server is running. By default Livy server is configured on port 8998. Add new endpoint using eg : http://[jupyter-node-ip]:8998. You can create and delete sessions for an endpoint from it.
 
    ![Sparkmagic manage sessions](images/jupyter-sparkmagic-endpoint.PNG)
 
