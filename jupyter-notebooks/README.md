@@ -44,7 +44,7 @@ Click the link `Example Platform-library PySpark Notebook.ipynb`.
 
 ### Spark Magic Usage
 
-The Spark kernel provides some predefined magics, which are special commands that you can call with %%.  Load 'sparkmagic' in order to interact with Spark from jupyter notebook.
+The Spark kernel provides some predefined magics, which are special commands that you can call with %% i.e %%MAGICNAME.  Load 'sparkmagic' in order to interact with Spark from jupyter notebook.
 
    ![Sparkmagic load magics](images/jupyter-sparkmagic-magics.png)
 
